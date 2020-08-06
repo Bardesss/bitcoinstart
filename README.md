@@ -39,7 +39,7 @@ Pull request:
 - [Bitcoin FAQ](https://en.bitcoin.it/wiki/Help:FAQ) - Meest gestelde vragen. (Engels)
 
 
-## Beginnen met Lightning
+## Beginnen met Lightning 
 
 **[`^        terug naar boven        ^`](#)**
 
