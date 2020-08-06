@@ -24,7 +24,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
 - [Beginnen met Lightning](#beginnen-met-lightning) ⚡
 - [Wallets](#wallets)
- - [Vertrouwde wallets](#vertrouwde-wallets)
+  - [Vertrouwde wallets](#vertrouwde-wallets)
 - [Kopen en verhandelen](#kopen-en-verhandelen)
 - [Uitgeven](#uitgeven)
 - [Accepteren](#accepteren)
