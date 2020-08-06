@@ -64,8 +64,8 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 ### Vertrouwde wallets
 
-- [Bitcoin Core]() -
-- [Electrum]() -
+- [Bitcoin Core]() - De wallet en tevens node waar het allemaal mee begon.
+- [Electrum]() - 
 - [Ledger]() - 
 - [Trezor]() -
 - [Coldcard]() - 
