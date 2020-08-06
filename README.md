@@ -20,9 +20,9 @@ Pull request:
 ## Inleiding
 
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
-- [Beginnen met Lightning ⚡](#beginnen-met-ligtning)
+- [Beginnen met Lightning](#beginnen-met-ligtning) 
 - [Wallets](#wallets)
-- [Kopen/verhandelen](#kopen-verhandelen)
+- [Kopen en verhandelen](#kopen-en-verhandelen)
 - [Nieuws](#nieuws)
 - [Podcasts](#potcasts)
 
@@ -52,7 +52,7 @@ Pull request:
 - [Kies uw wallet](https://bitcoin.nl/wallet) - Simpele wizard om de geschikte wallet te vinden.
 - [Wat is een hardware wallet](https://academy.binance.com/nl/security/what-is-a-hardware-wallet) - Uitgebreide uitleg over wat een wallet precies is.
 
-## Kopen/verhandelen
+## Kopen en verhandelen
 
 **[`^        terug naar boven        ^`](#)**
 
