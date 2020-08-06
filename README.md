@@ -21,6 +21,8 @@ Other recommendations:
 
 --------------------
 
+## Inleiding
+
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
 - [Bitcoin wallets](#bitcoin-wallets)
 - [Bitcoin kopen](bitcoin-kopen)
