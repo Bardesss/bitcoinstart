@@ -43,7 +43,7 @@ Pull request:
 
 **[`^        terug naar boven        ^`](#)**
 
-- [Wat is Lightning]{https://www.bitcoinspot.nl/het-grote-lightning-network-artikel-wat-is-het-hoe-werkt-het-en-wat-lost-het-op/) - Uitgebreide uitleg over wat het Lightning Network is en wat voor problemen het oplost.
+- [Wat is Lightning](https://www.bitcoinspot.nl/het-grote-lightning-network-artikel-wat-is-het-hoe-werkt-het-en-wat-lost-het-op/) - Uitgebreide uitleg over wat het Lightning Network is en wat voor problemen het oplost.
 
 ## Wallets
 
