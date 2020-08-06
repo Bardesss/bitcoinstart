@@ -51,7 +51,7 @@ Pull request:
 - [Bitonic](https://bitonic.nl/) - Bitcoin kopen met iDeal.
 - [Satos](https://satos.eu/nl/bitcoin/kopen) - Bitcoin kopen met iDeal.
 - [Bl3p](https://bl3p.eu/nl/) - Nederlandse exchange om bitcoin te verhandelen.
-- [Hodl Hodl](https://hodlhodl.com/) - Indernationale website om bitcoin te kopen en verkopen zonder [KYC](https://www.betaalvereniging.nl/actueel/achtergrondinformatie/in-het-kort/ken-uw-klant-in-het-kort/).
+- [Hodl Hodl](https://hodlhodl.com/) - Indernationale website om bitcoin te kopen en verkopen zonder [KYC](https://www.betaalvereniging.nl/actueel/achtergrondinformatie/in-het-kort/ken-uw-klant-in-het-kort/). (Engels)
 - [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn. (Engels)
 
 ## Nieuws
