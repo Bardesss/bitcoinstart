@@ -22,6 +22,7 @@ Pull request:
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
 - [Bitcoin wallets](#bitcoin-wallets)
 - [Bitcoin kopen](bitcoin-kopen)
+- [Podcasts](#potcasts)
 
 --------------------
 
@@ -32,7 +33,7 @@ Pull request:
 - [Bitcoin Whitepaper](https://bitcoin.org/files/bitcoin-paper/bitcoin_nl.pdf) - Satoshi's whitepaper, vertaald in het Nederlands.
 - [Wat is Bitcoin](https://www.bitcoinspot.nl/wat-is-bitcoin/) - Uitgebreide uitleg over Bitcoin.
 - [Aan de slag](https://bitcoin.org/nl/aan-de-slag) - Aan de slag met Bitcoin.
-- [Het "Bullish" argument voor Bitcoin](https://medium.com/@vijayboyapati/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1) - Een korte geschiedenis van geld en waarom Bitcoin uitkomst kan bieden
+- [Het "Bullish" argument voor Bitcoin](https://medium.com/@vijayboyapati/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1) - Een korte geschiedenis van geld en waarom Bitcoin uitkomst kan bieden.
 - [Bitcoin FAQ](https://en.bitcoin.it/wiki/Help:FAQ) - Meest gestelde vragen. (Engels)
 
 ## Bitcoin wallets
@@ -49,3 +50,9 @@ Pull request:
 - [Bitonic](https://bitonic.nl/) - Bitcoin kopen met iDeal.
 - [Satos](https://satos.eu/nl/bitcoin/kopen) - Bitcoin kopen met iDeal.
 - [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn.
+
+## Bitcoin kopen
+
+**[`^        terug naar boven        ^`](#)**
+
+- [De Bitcoin Show](https://debitcoinshow.nl/) - De hosts Boris (Gamekings), Aaron (Bitcoinmagazine) en Jan-Willem bespreken onderwerpen die te maken hebben met Bitcoin en economie.
