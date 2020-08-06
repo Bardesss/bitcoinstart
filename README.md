@@ -75,7 +75,8 @@ Hou wel de volgende template aan:
 
 **[`^        terug naar boven        ^`](#)**
 
-- [BTC Payserver](https://btcpayserver.org/nl_NL/) - Zelf-gehoste betalingsverwerker om bitcoin te accepteren. Werkt o.a. met Wordpress, WooCommerce, Prestashop en Magento.
+- [BTC Payserver](https://btcpayserver.org/nl_NL/) - Zelf-gehoste opensource betalingsverwerker om bitcoin (ook Lightning) te accepteren. Werkt o.a. met Wordpress, WooCommerce, Prestashop en Magento.
+- [BitKassa](https://www.bitkassa.nl/nl/) - Nederlandse betalingsverwerker om bitcoin (ook Lightning) te accepteren.
 
 
 ## Verdienen
