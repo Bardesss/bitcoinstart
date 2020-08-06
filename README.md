@@ -14,10 +14,13 @@ Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te b
 
 - [Bitcoin Whitepaper](https://bitcoin.org/files/bitcoin-paper/bitcoin_nl.pdf) - Satoshi's whitepaper, vertaald in het Nederlands.
 - [Wat is Bitcoin](https://www.bitcoinspot.nl/wat-is-bitcoin/) - Uitgebreide uitleg over Bitcoin.
-- [Wat moet u weten](https://bitcoin.org/nl/wat-u-moet-weten) - Wat je moet weten over Bitcoin.
+- [Aan de slag](https://bitcoin.org/nl/aan-de-slag) - Aan de slag met Bitcoin.
 - [Het "Bullish" argument voor Bitcoin](https://medium.com/@vijayboyapati/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1) - Een korte geschiedenis van geld en waarom Bitcoin uitkomst kan bieden
 - [Bitcoin FAQ](https://en.bitcoin.it/wiki/Help:FAQ) - Meest gestelde vragen. (Engels)
 
 ## Bitcoin wallets
 
 **[`^        terug naar boven        ^`](#)**
+
+- [Kies uw wallet](https://bitcoin.nl/wallet) - Simpele wizard om de geschikte wallet te vinden.
+- [Wat is een hardware wallet](https://academy.binance.com/nl/security/what-is-a-hardware-wallet) - Uitgebreide uitleg over wat een wallet precies is.
