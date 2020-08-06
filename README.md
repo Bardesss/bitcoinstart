@@ -91,8 +91,8 @@ Hou wel de volgende template aan:
 
 **[`^        terug naar boven        ^`](#)**
 
-- [Bitcoin Magazine](https://bitcoinmagazine.nl/) - Nieuwsplatfor over Bitcoin. Niet te verwarren met de [.com](https://bitcoinmagazine.com/) site.
-- [Lekker Cryptisch](https://lekkercryptisch.nl/) - Platform waar voornamelijk over Bicoin wordt gepost.
+- [Bitcoin Magazine](https://bitcoinmagazine.nl/) - Nieuwsplatform over Bitcoin. Niet te verwarren met de [.com](https://bitcoinmagazine.com/) site.
+- [Lekker Cryptisch](https://lekkercryptisch.nl/) - Nieuwsplatform waar voornamelijk over Bicoin wordt gepost.
 
 ## Podcasts
 
