@@ -39,11 +39,11 @@ Pull request:
 - [Bitcoin FAQ](https://en.bitcoin.it/wiki/Help:FAQ) - Meest gestelde vragen. (Engels)
 
 
-## Beginnen met Lightning 
+## Beginnen met Lightning ⚡
 
 **[`^        terug naar boven        ^`](#)**
 
-- [Wat is Lightning](https://www.bitcoinspot.nl/het-grote-lightning-network-artikel-wat-is-het-hoe-werkt-het-en-wat-lost-het-op/) - Uitgebreide uitleg over wat het Lightning Network is en wat voor problemen het oplost.
+- [Wat is Lightning](https://www.bitcoinspot.nl/het-grote-lightning-network-artikel-wat-is-het-hoe-werkt-het-en-wat-lost-het-op/) - Uitgebreide uitleg over wat het Lightning Network is en wat voor problemen het oplost. 
 
 ## Wallets
 
