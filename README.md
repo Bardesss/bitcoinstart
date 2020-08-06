@@ -12,7 +12,7 @@ Hou wel de volgende template aan:
 
 Other recommendations:
 
-- Om een link toe te voegen, [edit het README.md bestand](https://github.com/bardesss/bitcoinstart/edit/master/README.md) d.m.v. Githubs webinterface, en maak een pull request.
+- Om een link toe te voegen, [edit het README.md bestand](https://github.com/bardesss/bitcoinstart/edit/master/README.md) d.m.v. de webinterface van Github, en maak een pull request.
 - Zie [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) voor verdere informatie.
 
 --------------------
