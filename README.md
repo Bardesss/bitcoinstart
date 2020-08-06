@@ -5,6 +5,7 @@ Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te b
 
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
 - [Bitcoin wallets](#bitcoin-wallets)
+- [Bitcoin kopen](bitcoin-kopen)
 
 --------------------
 
@@ -24,3 +25,11 @@ Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te b
 
 - [Kies uw wallet](https://bitcoin.nl/wallet) - Simpele wizard om de geschikte wallet te vinden.
 - [Wat is een hardware wallet](https://academy.binance.com/nl/security/what-is-a-hardware-wallet) - Uitgebreide uitleg over wat een wallet precies is.
+
+## Bitcoin kopen
+
+**[`^        terug naar boven        ^`](#)**
+
+- [Bitonic](https://bitonic.nl/) - Bitcoin kopen met iDeal.
+- [Satos](https://satos.eu/nl/bitcoin/kopen) - Bitcoin kopen met iDeal.
+- [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn.
