@@ -10,3 +10,5 @@ Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te b
 ## Beginnen met Bitcoin
 
 **[`^        terug naar boven        ^`](#)**
+
+- [Bitcoin Whitepaper](https://bitcoin.org/files/bitcoin-paper/bitcoin_nl.pdf) - Satoshi's whitepaper, vertaald in het Nederlands.
