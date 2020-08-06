@@ -1,13 +1,14 @@
 # 🚀 bitcoinstart
-Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te bieden. Toch kan het lastig zijn om zoiets moeilijk te begrijpen en om zoiets moeilijk te begrijpen kunnen we het beter in onze eigen taal leren. Daarom probeer ik op deze pagina zoveel mogelijk Nederlandse bronnen te plaatsen. Toch kan het voor komen dat een moeilijk onderdeel nog niet in het Nederlands is uitgelegd, in dat geval plaats ik een Engelse bron. Deze lijst is volledig opensource. Heb je tips? Dien een issue in of maak een pull request.
+Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te bieden. Toch kan het lastig zijn om zoiets moeilijk te begrijpen en om zoiets moeilijk te begrijpen kunnen we het beter in onze eigen taal leren. Daarom is deze pagina in het leven geroepen om zoveel mogelijk Nederlandse bronnen met informatie te verzamelen. Toch kan het voor komen dat een moeilijk onderdeel nog niet in het Nederlands is uitgelegd, in dat geval wordt er een Engelse bron geplaatst.
 
 --------------------
 
 ## Contributing
 
-Please open a new issue to clarify any questions, or post in the [General discussion issue](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/89).
+Open een nieuw [issue](https://github.com/Bardesss/bitcoinstart/issues) om tips door te geven of maak een pull request (hieronder uitgelegd).
 
-All guidelines for adding new software to the list are listed in [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md).
+Hou wel de volgende template aan:
+``- [Titel](http://website/) - Korte beschrijving. `Taal anders dan NL` ``
 
 Other recommendations:
 
