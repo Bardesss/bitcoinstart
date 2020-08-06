@@ -24,6 +24,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
 - [Beginnen met Lightning](#beginnen-met-lightning) ⚡
 - [Wallets](#wallets)
+ - [Vertrouwde wallets](#vertrouwde-wallets)
 - [Kopen en verhandelen](#kopen-en-verhandelen)
 - [Uitgeven](#uitgeven)
 - [Accepteren](#accepteren)
@@ -59,6 +60,8 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Wat is een wallet](https://academy.binance.com/nl/blockchain/crypto-wallet-types-explained) - Uitgebreide uitleg over wat een wallet precies is.
 - [Wat is een hardware wallet](https://academy.binance.com/nl/security/what-is-a-hardware-wallet) - Uitgebreide uitleg over wat een hardware wallet precies is.
 - [Kies uw wallet](https://bitcoin.nl/wallet) - Simpele wizard om de geschikte wallet te vinden.
+
+### Vertrouwde wallets
 
 ## Kopen en verhandelen
 
