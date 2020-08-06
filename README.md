@@ -63,6 +63,10 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 ### Vertrouwde wallets
 
+- [Ledger]() - 
+- [Trezor]() -
+- [Coldcard]()
+
 ## Kopen en verhandelen
 
 **[`^        terug naar boven        ^`](#)**
