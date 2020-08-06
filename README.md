@@ -3,7 +3,7 @@ Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te b
 
 --------------------
 
-## Contributing
+## Meehelpen
 
 Open een nieuw [issue](https://github.com/Bardesss/bitcoinstart/issues) om tips door te geven of maak een pull request (hieronder uitgelegd).
 
@@ -12,13 +12,8 @@ Hou wel de volgende template aan:
 
 Other recommendations:
 
-- To add a new entry, [edit the README.md file](https://github.com/awesome-selfhosted/awesome-selfhosted/edit/master/README.md) through Github's web interface or a text editor, and send a Pull Request.
-- See [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) for help on sending your patch.
-- A script to help you format new entries is available at (it requires `make` to be installed): `git clone`/[download](https://github.com/awesome-selfhosted/awesome-selfhosted/archive/master.zip) and enter the repository, run `make add` and follow the instructions.
-- A website to help you format new entries is available at https://n8225.github.io/
-- The list of contributors can be updated with `make contrib`. 
-- Software with no development activity for 6-12 months may be removed from the list.
-- Don't know where to start? Check issues labeled [`help wanted`](https://github.com/awesome-selfhosted/awesome-selfhosted/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and [`fix`](https://github.com/awesome-selfhosted/awesome-selfhosted/issues?q=is%3Aissue+is%3Aopen+label%3Afix).
+- Om een link toe te voegen, [edit het README.md bestand](https://github.com/bardesss/bitcoinstart/edit/master/README.md) d.m.v. Githubs webinterface, en maak een pull request.
+- Zie [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) voor verdere informatie.
 
 --------------------
 
