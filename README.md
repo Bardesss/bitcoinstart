@@ -8,6 +8,5 @@ Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te b
 --------------------
 
 ## Beginnen met Bitcoin
-For personal analytics/dashboards, see [Personal Dashboards](#personal-dashboards)
 
-**[`^        back to top        ^`](#)**
+**[`^        terug naar boven        ^`](#)**
