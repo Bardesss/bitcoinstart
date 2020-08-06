@@ -51,7 +51,7 @@ Pull request:
 - [Satos](https://satos.eu/nl/bitcoin/kopen) - Bitcoin kopen met iDeal.
 - [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn.
 
-## Bitcoin kopen
+## Podcasts
 
 **[`^        terug naar boven        ^`](#)**
 
