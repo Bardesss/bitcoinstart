@@ -20,7 +20,7 @@ Pull request:
 ## Inleiding
 
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
-- [Beginnen met Lightning ](#beginnen-met-ligtning)
+- [Beginnen met Lightning ⚡](#beginnen-met-ligtning) 
 - [Wallets](#wallets)
 - [Kopen/verhandelen](#kopen-verhandelen)
 - [Nieuws](#nieuws)
