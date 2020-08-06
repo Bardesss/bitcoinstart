@@ -70,6 +70,8 @@ Hou wel de volgende template aan:
 
 **[`^        terug naar boven        ^`](#)**
 
+- [Spending-Bitcoin](https://spending-bitcoin.com/) - Verzamelplek van websites die bitcoin accepteren als betaling.
+
 
 ## Accepteren
 
