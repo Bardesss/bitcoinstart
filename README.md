@@ -85,7 +85,7 @@ Hou wel de volgende template aan:
 
 **[`^        terug naar boven        ^`](#)**
 
--[Stekking](https://stekking.com/) - Verdien bitcoin (Lightning) in de vorm van cash-back bij uw aankopen.
+- [Stekking](https://stekking.com/) - Verdien bitcoin (Lightning) in de vorm van cash-back bij uw aankopen.
 
 ## Nieuws
 
