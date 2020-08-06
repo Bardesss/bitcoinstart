@@ -63,9 +63,11 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 ### Vertrouwde wallets
 
+- [Bitcoin Core]() -
+- [Electrum]() -
 - [Ledger]() - 
 - [Trezor]() -
-- [Coldcard]()
+- [Coldcard]() - 
 
 ## Kopen en verhandelen
 
