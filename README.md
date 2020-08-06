@@ -20,7 +20,7 @@ Pull request:
 ## Inleiding
 
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
-- [Beginnen met Lightning ⚡](#beginnen-met-ligtning) 
+- [Beginnen met Lightning ⚡](#beginnen-met-ligtning)
 - [Wallets](#wallets)
 - [Kopen/verhandelen](#kopen-verhandelen)
 - [Nieuws](#nieuws)
@@ -37,6 +37,13 @@ Pull request:
 - [Aan de slag](https://bitcoin.org/nl/aan-de-slag) - Aan de slag met Bitcoin.
 - [Het "Bullish" argument voor Bitcoin](https://medium.com/@vijayboyapati/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1) - Een korte geschiedenis van geld en waarom Bitcoin uitkomst kan bieden.
 - [Bitcoin FAQ](https://en.bitcoin.it/wiki/Help:FAQ) - Meest gestelde vragen. (Engels)
+
+
+## Beginnen met Lightning
+
+**[`^        terug naar boven        ^`](#)**
+
+- [Wat is Lightning]{https://www.bitcoinspot.nl/het-grote-lightning-network-artikel-wat-is-het-hoe-werkt-het-en-wat-lost-het-op/) - Uitgebreide uitleg over wat het Lightning Network is en wat voor problemen het oplost.
 
 ## Wallets
 
