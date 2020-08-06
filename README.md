@@ -70,7 +70,7 @@ Hou wel de volgende template aan:
 
 **[`^        terug naar boven        ^`](#)**
 
-- [Spending-Bitcoin](https://spending-bitcoin.com/) - Verzamelplek van websites die bitcoin accepteren als betaling.
+- [Spending-Bitcoin](https://spending-bitcoin.com/) - Verzamelplek van websites die bitcoin accepteren als betaling. (Engels)
 
 
 ## Accepteren
@@ -84,6 +84,8 @@ Hou wel de volgende template aan:
 ## Verdienen
 
 **[`^        terug naar boven        ^`](#)**
+
+-[Stekking](https://stekking.com/) - Verdien bitcoin (Lightning) in de vorm van cash-back bij uw aankopen.
 
 ## Nieuws
 
