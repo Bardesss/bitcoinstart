@@ -24,7 +24,7 @@ Hou wel de volgende template aan:
 - [Wallets](#wallets)
 - [Kopen en verhandelen](#kopen-en-verhandelen)
 - [Nieuws](#nieuws)
-- [Podcasts](#potcasts)
+- [Podcasts](#podcasts)
 
 --------------------
 
