@@ -23,6 +23,9 @@ Hou wel de volgende template aan:
 - [Beginnen met Lightning](#beginnen-met-lightning) ⚡
 - [Wallets](#wallets)
 - [Kopen en verhandelen](#kopen-en-verhandelen)
+- [Uitgeven](#uitgeven)
+- [Accepteren](#accepteren)
+- [Verdienen](#verdienen)
 - [Nieuws](#nieuws)
 - [Podcasts](#podcasts)
 
@@ -62,6 +65,22 @@ Hou wel de volgende template aan:
 - [Bl3p](https://bl3p.eu/nl/) - Nederlandse exchange om bitcoin te verhandelen.
 - [Hodl Hodl](https://hodlhodl.com/) - Indernationale website om bitcoin te kopen en verkopen zonder [KYC](https://www.betaalvereniging.nl/actueel/achtergrondinformatie/in-het-kort/ken-uw-klant-in-het-kort/). (Engels)
 - [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn. (Engels)
+
+## Uitgeven
+
+**[`^        terug naar boven        ^`](#)**
+
+
+## Accepteren
+
+**[`^        terug naar boven        ^`](#)**
+
+- [BTC Payserver](https://btcpayserver.org/nl_NL/) - Zelf-gehoste betalingsverwerker om bitcoin te accepteren. Werkt o.a. met Wordpress, WooCommerce, Prestashop en Magento.
+
+
+## Verdienen
+
+**[`^        terug naar boven        ^`](#)**
 
 ## Nieuws
 
