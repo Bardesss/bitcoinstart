@@ -21,7 +21,8 @@ Pull request:
 
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
 - [Bitcoin wallets](#bitcoin-wallets)
-- [Bitcoin kopen](bitcoin-kopen)
+- [Bitcoin kopen](#bitcoin-kopen)
+- [Nieuws](#nieuws)
 - [Podcasts](#potcasts)
 
 --------------------
@@ -50,6 +51,13 @@ Pull request:
 - [Bitonic](https://bitonic.nl/) - Bitcoin kopen met iDeal.
 - [Satos](https://satos.eu/nl/bitcoin/kopen) - Bitcoin kopen met iDeal.
 - [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn.
+
+## Nieuws
+
+**[`^        terug naar boven        ^`](#)**
+
+- [Bitcoin Magazine](https://bitcoinmagazine.nl/) - Nieuwsplatfor over Bitcoin. Niet te verwarren met de [.com](https://bitcoinmagazine.com/) site.
+- [Lekker Cryptisch](https://lekkercryptisch.nl/) - Platform waar voornamelijk over Bicoin wordt gepost.
 
 ## Podcasts
 
