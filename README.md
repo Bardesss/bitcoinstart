@@ -54,7 +54,7 @@ Hou wel de volgende template aan:
 
 **[`^        terug naar boven        ^`](#)**
 
-- [Wat is een Wallet](https://academy.binance.com/nl/blockchain/crypto-wallet-types-explained) - Uitgebreide uitleg over wat een wallet precies is.
+- [Wat is een wallet](https://academy.binance.com/nl/blockchain/crypto-wallet-types-explained) - Uitgebreide uitleg over wat een wallet precies is.
 - [Wat is een hardware wallet](https://academy.binance.com/nl/security/what-is-a-hardware-wallet) - Uitgebreide uitleg over wat een hardware wallet precies is.
 - [Kies uw wallet](https://bitcoin.nl/wallet) - Simpele wizard om de geschikte wallet te vinden.
 
