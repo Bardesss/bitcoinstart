@@ -36,6 +36,7 @@ Pull request:
 - [Wat is Bitcoin](https://www.bitcoinspot.nl/wat-is-bitcoin/) - Uitgebreide uitleg over Bitcoin.
 - [Aan de slag](https://bitcoin.org/nl/aan-de-slag) - Aan de slag met Bitcoin.
 - [Het "Bullish" argument voor Bitcoin](https://medium.com/@vijayboyapati/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1) - Een korte geschiedenis van geld en waarom Bitcoin uitkomst kan bieden.
+- [De Bitcoin Standaard](https://konsensus.network/product/de-bitcoin-standaard/) - Nederlandse vertaling van het boek The Bitcoin Standard door [Saifedean Ammous](https://saifedean.com/).
 - [Bitcoin FAQ](https://en.bitcoin.it/wiki/Help:FAQ) - Meest gestelde vragen. (Engels)
 
 
