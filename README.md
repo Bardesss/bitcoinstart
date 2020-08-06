@@ -1,5 +1,5 @@
 # 🚀 bitcoinstart
-Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te bieden. Toch kan het lastig zijn om zoiets moeilijk te begrijpen en om zoiets moeilijk te begrijpen kunnen we het beter in onze eigen taal leren. Daarom is deze pagina in het leven geroepen om zoveel mogelijk Nederlandse bronnen met informatie te verzamelen. Toch kan het voor komen dat een moeilijk onderdeel nog niet in het Nederlands is uitgelegd, in dat geval wordt er een Engelse bron geplaatst.
+Bitcoin is een nieuwe vorm van geld bedoeld om de mens financiële vrijheid te bieden. Toch kan het lastig zijn om zoiets moeilijk te begrijpen en om zoiets moeilijk te begrijpen kunnen we het beter in onze eigen taal leren. Bij een simpele zoekopdracht zie je door de bomen het bos niet meer en wordt je doodgegooid met websites vol reclame met als doel om zelf geld te verdienen. Daarom kan de informatie niet altijd goed zijn. Het doel van deze lijst is om zoveel mogelijke goede Nederlandse bronnen te verzamelen. Toch kan het voor komen dat een moeilijk onderdeel nog niet in het Nederlands is uitgelegd, in dat geval wordt er een Engelse bron geplaatst.
 
 --------------------
 
@@ -20,8 +20,9 @@ Pull request:
 ## Inleiding
 
 - [Beginnen met Bitcoin](#beginnen-met-bitcoin)
-- [Bitcoin wallets](#bitcoin-wallets)
-- [Bitcoin kopen/verhandelen](#bitcoin-kopen-verhandelen)
+- Beginnen met Lightning ](#beginnen-met-ligtning)
+- [Wallets](#wallets)
+- [Kopen/verhandelen](#kopen-verhandelen)
 - [Nieuws](#nieuws)
 - [Podcasts](#potcasts)
 
@@ -37,14 +38,14 @@ Pull request:
 - [Het "Bullish" argument voor Bitcoin](https://medium.com/@vijayboyapati/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1) - Een korte geschiedenis van geld en waarom Bitcoin uitkomst kan bieden.
 - [Bitcoin FAQ](https://en.bitcoin.it/wiki/Help:FAQ) - Meest gestelde vragen. (Engels)
 
-## Bitcoin wallets
+## Wallets
 
 **[`^        terug naar boven        ^`](#)**
 
 - [Kies uw wallet](https://bitcoin.nl/wallet) - Simpele wizard om de geschikte wallet te vinden.
 - [Wat is een hardware wallet](https://academy.binance.com/nl/security/what-is-a-hardware-wallet) - Uitgebreide uitleg over wat een wallet precies is.
 
-## Bitcoin kopen/verhandelen
+## Kopen/verhandelen
 
 **[`^        terug naar boven        ^`](#)**
 
