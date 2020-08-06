@@ -15,6 +15,8 @@ Pull request:
 Hou wel de volgende template aan:
 ``- [Titel](http://website/) - Korte beschrijving. `Taal anders dan NL` ``
 
+Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijven. Begin een eigen blog (o.a. [Medium](https://medium.com/) of [Wordpress](https://nl.wordpress.com/)), schrijf je stuk en dien hem in.
+
 --------------------
 
 ## Inleiding
