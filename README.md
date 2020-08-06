@@ -26,6 +26,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Wallets](#wallets)
   - [Vertrouwde wallets](#vertrouwde-wallets)
 - [Kopen en verhandelen](#kopen-en-verhandelen)
+  - [Vertrouwde brokers en exchanges](#vertrouwde-brokers-en-exchanges)
 - [Uitgeven](#uitgeven)
 - [Accepteren](#accepteren)
 - [Verdienen](#verdienen)
@@ -73,11 +74,14 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 **[`^        terug naar boven        ^`](#)**
 
+- [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn. (Engels)
+
+### Vertrouwde brokers en exchanges
+
 - [Bitonic](https://bitonic.nl/) - Bitcoin kopen met iDeal.
 - [Satos](https://satos.eu/nl/bitcoin/kopen) - Bitcoin kopen met iDeal.
 - [Bl3p](https://bl3p.eu/nl/) - Nederlandse exchange om bitcoin te verhandelen.
 - [Hodl Hodl](https://hodlhodl.com/) - Indernationale website om bitcoin te kopen en verkopen zonder [KYC](https://www.betaalvereniging.nl/actueel/achtergrondinformatie/in-het-kort/ken-uw-klant-in-het-kort/). (Engels)
-- [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn. (Engels)
 
 ## Uitgeven
 
