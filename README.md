@@ -5,7 +5,7 @@ Bitcoin is een nieuwe vorm van geld (sinds 2009!) bedoeld om de mens financiële
 
 ## Meehelpen
 
-Open een nieuw [issue](https://github.com/Bardesss/bitcoinstart/issues) om tips door te geven of doe een pull request (hieronder uitgelegd). Heb je vragen of opmerkingen? Post ze dan in [Algemene Discussie](https://github.com/Bardesss/bitcoinstart/issues/1).
+Open een nieuw [issue](https://github.com/Bardesss/bitcoinstart/issues/new/choose) om tips door te geven of doe een pull request (hieronder uitgelegd). Heb je vragen of opmerkingen? Post ze dan in [Algemene Discussie](https://github.com/Bardesss/bitcoinstart/issues/1).
 
 Pull request:
 
