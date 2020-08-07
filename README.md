@@ -64,9 +64,9 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 ### Vertrouwde wallets
 
-- [Bitcoin Core]() - De desktop wallet en tevens node waar het allemaal mee begon. (Linux, MacOS en Windows)
-- [Electrum]() - Opensource desktop sinds 2013. (Linux, MacOS, Windows en Android)
-- [Ledger]() - Hardware wallet met eigen applicaties voor Linux, MacOS, Windows, Android en iOS.
+- [Bitcoin Core]() - De desktop wallet en tevens node waar het allemaal mee begon. Beschikbaar voor Linux, MacOS en Windows.
+- [Electrum]() - Opensource desktop sinds 2013. Beschikbaar voor Linux, MacOS, Windows en Android.
+- [Ledger]() - Gebruiksvriendelijke hardware wallet met eigen applicaties voor Linux, MacOS, Windows, Android en iOS.
 - [Trezor]() -
 - [Coldcard]() - 
 
