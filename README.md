@@ -87,6 +87,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 **[`^        terug naar boven        ^`](#)**
 
+- [Waar kan je met bitcoin betalen](https://www.bitcoinspot.nl/waar-kan-je-met-bitcoins-betalen/) - Waar kan je met bitcoin betalen in Nederland?
 - [Spending-Bitcoin](https://spending-bitcoin.com/) - Verzamelplek van websites die bitcoin accepteren als betaling. (Engels)
 
 
