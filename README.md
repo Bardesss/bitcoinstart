@@ -64,11 +64,11 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 ### Vertrouwde wallets
 
-- [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/) - De desktop wallet en tevens node waar het allemaal mee begon. Beschikbaar voor Linux, MacOS en Windows.
-- [Electrum](https://electrum.org/) - Opensource desktop sinds 2013. Beschikbaar voor Linux, MacOS, Windows en Android.
-- [Ledger](https://www.ledger.com/) - Gebruiksvriendelijke hardware wallet met eigen applicaties voor Linux, MacOS, Windows, Android en iOS.
-- [Trezor](https://trezor.io/) - Gebruiksvriendelijke hardware wallet met eigen webapplicatie zodat hij crossplatform te gebruiken is.
-- [Coldcard](https://coldcardwallet.com/) - Bitcoin-only hardwarewallet kan zonder internet gebruikt worden.
+- [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/) - De desktop wallet en tevens node waar het allemaal mee begon. Beschikbaar voor Linux, MacOS en Windows. (Engels)
+- [Electrum](https://electrum.org/) - Opensource desktop sinds 2013. Beschikbaar voor Linux, MacOS, Windows en Android. (Engels)
+- [Ledger](https://www.ledger.com/) - Gebruiksvriendelijke hardware wallet met eigen applicaties voor Linux, MacOS, Windows, Android en iOS. (Engels)
+- [Trezor](https://trezor.io/) - Gebruiksvriendelijke hardware wallet met eigen webapplicatie zodat hij crossplatform te gebruiken is. (Engels)
+- [Coldcard](https://coldcardwallet.com/) - Bitcoin-only hardwarewallet kan zonder internet gebruikt worden. (Engels)
 
 ## Kopen en verhandelen
 
