@@ -69,6 +69,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Ledger](https://www.ledger.com/) - Gebruiksvriendelijke hardware wallet met eigen applicaties voor Linux, MacOS, Windows, Android en iOS. (Engels)
 - [Trezor](https://trezor.io/) - Gebruiksvriendelijke hardware wallet met eigen webapplicatie zodat hij crossplatform te gebruiken is. (Engels)
 - [Coldcard](https://coldcardwallet.com/) - Bitcoin-only hardwarewallet kan zonder internet gebruikt worden. (Engels)
+- [Blue Wallet](https://bluewallet.io/) - Opensource Bitcoin en Lightning wallet voor je smartphone, ondersteunt tevens hardware wallets. (Engels)
 
 ## Kopen en verhandelen
 
