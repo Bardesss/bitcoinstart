@@ -83,6 +83,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Satos](https://satos.eu/nl/bitcoin/kopen) - Bitcoin kopen met iDeal.
 - [Bl3p](https://bl3p.eu/nl/) - Nederlandse exchange om bitcoin te verhandelen.
 - [Hodl Hodl](https://hodlhodl.com/) - Indernationale website om bitcoin te kopen en verkopen zonder [KYC](https://www.betaalvereniging.nl/actueel/achtergrondinformatie/in-het-kort/ken-uw-klant-in-het-kort/). (Engels)
+- [Relai](https://relai.ch/) - Gemakkelijk bitcoin kopen zonder KYC en met DCA mogelijkheid. (Engels)
 
 ## Uitgeven
 
