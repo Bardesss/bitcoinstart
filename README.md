@@ -62,6 +62,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Wat is een wallet](https://academy.binance.com/nl/blockchain/crypto-wallet-types-explained) - Uitgebreide uitleg over wat een wallet precies is.
 - [Wat is een hardware wallet](https://academy.binance.com/nl/security/what-is-a-hardware-wallet) - Uitgebreide uitleg over wat een hardware wallet precies is.
 - [Kies uw wallet](https://bitcoin.nl/wallet) - Simpele wizard om de geschikte wallet te vinden.
+- [Hoe maak ik een wallet aan](https://bewijsvanwerk.com/green-wallet/) - Uitgebreide handleiding om te starten met Blockstream Green wallet.
 
 ### Vertrouwde wallets
 
@@ -71,6 +72,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Trezor](https://trezor.io/) - Gebruiksvriendelijke hardware wallet met eigen webapplicatie zodat hij crossplatform te gebruiken is. (Engels)
 - [Coldcard](https://coldcardwallet.com/) - Bitcoin-only hardwarewallet kan zonder internet gebruikt worden. (Engels)
 - [Blue Wallet](https://bluewallet.io/) - Opensource Bitcoin en Lightning wallet voor je smartphone, ondersteunt tevens hardware wallets. (Engels)
+- [Blockstream Green](https://blockstream.com/green/) - Bitcoin wallet met Nederlandse vertaling. (Engels)
 
 ## Kopen en verhandelen
 
