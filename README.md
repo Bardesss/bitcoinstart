@@ -75,7 +75,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 **[`^        terug naar boven        ^`](#)**
 
--[Bitcoin kopen voor beginners](https://www.bartusoost.nl/bitcoin-kopen-voor-beginners-2020/) - Simpele handleiding om bitcoin te kopen en bewaren.
+- [Bitcoin kopen voor beginners](https://www.bartusoost.nl/bitcoin-kopen-voor-beginners-2020/) - Simpele handleiding om bitcoin te kopen en bewaren.
 - [Dollar Cost Avarage](https://dcabtc.com/) - Simpele calculator om uit te rekenen hoeveel je maandelijks investering waard had kunnen zijn. (Engels)
 
 ### Vertrouwde brokers en exchanges
