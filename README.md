@@ -44,6 +44,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Aan de slag](https://bitcoin.org/nl/aan-de-slag) - Aan de slag met Bitcoin.
 - [Bitcoin of bitcoin](https://bitcoin.org/nl/woordenlijst#bitcoin) - Wanneer gebruik je Bitcoin en wanneer bitcoin?
 - [Het "Bullish" argument voor Bitcoin](https://medium.com/@vijayboyapati/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1) - Een korte geschiedenis van geld en waarom Bitcoin uitkomst kan bieden.
+- [De Bitcoin Reformatie](https://bewijsvanwerk.com/de-bitcoin-reformatie/) - Nederlandse vertaling van The Bitcoin Reformation van Tuur Demeester over de scheiding van geld en staat.
 - [De Bitcoin Standaard](https://konsensus.network/product/de-bitcoin-standaard/) - Nederlandse vertaling van het boek The Bitcoin Standard door [Saifedean Ammous](https://saifedean.com/).
 - [Bitcoin FAQ](https://en.bitcoin.it/wiki/Help:FAQ) - Meest gestelde vragen. (Engels)
 
