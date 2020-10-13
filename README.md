@@ -125,3 +125,4 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 
 - [De Bitcoin Show](https://debitcoinshow.nl/) - De hosts Boris ([Gamekings](https://www.gamekings.tv/)), Aaron ([Bitcoinmagazine](https://bitcoinmagazine.com/)) en Jan-Willem bespreken onderwerpen die te maken hebben met Bitcoin en economie.
 - [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) - Toegankelijke content voor een beginner die nog nooit wat met Bitcoin gedaan heeft en soms met diepere technische uitleg.
+- [Hup Bitcoin](https://anchor.fm/hupbitcoin) - De podcast van Bitcoin Magazine met Nederlandse gasten uit de scene.
