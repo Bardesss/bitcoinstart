@@ -63,6 +63,7 @@ Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijve
 - [Wat is een hardware wallet](https://academy.binance.com/nl/security/what-is-a-hardware-wallet) - Uitgebreide uitleg over wat een hardware wallet precies is.
 - [Kies uw wallet](https://bitcoin.nl/wallet) - Simpele wizard om de geschikte wallet te vinden.
 - [Hoe maak ik een wallet aan](https://bewijsvanwerk.com/green-wallet/) - Uitgebreide handleiding om te starten met Blockstream Green wallet.
+- [Introductie tot BlueWallet](https://bewijsvanwerk.com/introductie-tot-bluewallet/) - Uitgebreide handleiding om te starten met BlueWallet.
 
 ### Vertrouwde wallets
 
