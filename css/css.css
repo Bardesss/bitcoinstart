@@ -24,6 +24,10 @@
   max-width: 60rem;
 }
 
+.card{
+    margin-bottom: 2rem;
+}
+
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -31,4 +35,8 @@ footer {
 
 footer p {
   margin-bottom: .25rem;
+}
+
+a {
+  text-decoration: none;
 }
