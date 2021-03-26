@@ -16,6 +16,6 @@ Hou wel de volgende template aan:
 ``Titel``
 
 Bijvoorbeeld:
-``<a href="https://bitcoinst.art">Nederlandse informatie over Bitcoin</a>"``
+``<a href="https://bitcoinst.art">Nederlandse informatie over Bitcoin</a>``
 
 Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijven. Begin een eigen blog (o.a. [Medium](https://medium.com/) of [Wordpress](https://nl.wordpress.com/)), schrijf je stuk en dien hem in.
