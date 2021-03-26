@@ -13,9 +13,9 @@ Pull request:
 - Zie [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) voor verdere informatie.
 
 Hou wel de volgende template aan:
-``Titel - Korte beschrijving.``
+``Titel``
 
 Bijvoorbeeld:
-``<a href="https://bitcoinst.art>Bitcoinstart</a> - Informatie over Bitcoin."``
+``<a href="https://bitcoinst.art>Nederlandse informatie over Bitcoin</a>"``
 
 Je kan ook meehelpen door zelf een Nederlandse handleiding of uitleg te schrijven. Begin een eigen blog (o.a. [Medium](https://medium.com/) of [Wordpress](https://nl.wordpress.com/)), schrijf je stuk en dien hem in.
