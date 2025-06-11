@@ -10,15 +10,17 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <link href="css/css.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="img/logoliggend.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   </head>
   <body>
   
-<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light shadow-sm" aria-label="Hoofdnavigatie">
   <div class="container-fluid d-flex align-items-center justify-content-between position-relative">
     <span class="navbar-text">
-      <a href="https://amboss.space/node/03ea17f6bac6bf73bfb932aad27f9887cab1c45f9e35d53049cdf6bd7002786554"><i class="m-2 fa fa-bolt" aria-hidden="true"></i>Amboss</a>
+      <a href="https://amboss.space/node/03ea17f6bac6bf73bfb932aad27f9887cab1c45f9e35d53049cdf6bd7002786554" aria-label="Amboss node"><i class="m-2 fa fa-bolt" aria-hidden="true"></i>Amboss</a>
     </span>
-    <a class="navbar-brand mx-auto position-absolute start-50 translate-middle-x" href="#"><img src="img/logoliggend.png" height="35" alt="Bitcoinstart" /></a>
+    <a class="navbar-brand mx-auto position-absolute start-50 translate-middle-x" href="#" aria-label="Bitcoinstart home"><img src="img/logoliggend.png" height="35" alt="Bitcoinstart logo" style="border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); background:#fff; padding:2px;" /></a>
     <span class="navbar-text" id="btc-ticker" style="font-weight:600; color:#ff9900;"></span>
   </div>
 </nav>
@@ -26,12 +28,11 @@
 
   
 	<main role="main">
-	  <section class="jumbotron text-center">
+	  <section class="jumbotron text-center mb-4" style="border-radius:1.5rem;">
 		<div class="container">
+		  <h1 class="display-5 fw-bold mb-3">Welkom bij Bitcoinstart</h1>
 		  <p class="lead text-muted">Bitcoin is een nieuwe vorm van geld (sinds 2009!) bedoeld om de mens financiële vrijheid te bieden. Toch kan het lastig zijn om zoiets moeilijks te begrijpen en om zoiets moeilijk te begrijpen kunnen we het beter in onze eigen taal leren. Bij een simpele zoekopdracht zie je door de bomen het bos niet meer en wordt je doodgegooid met websites vol reclame met als doel om zelf geld te verdienen in plaats iemand goed te informeren. Daarom kan de informatie niet altijd goed zijn. Het doel van deze lijst is om zoveel mogelijke goede Nederlandse bronnen te verzamelen.</p>
-		  <p>
-			<a href="https://github.com/Bardesss/bitcoinstart" class="btn btn-warning">Help mee <i class="fa fa-github"></i></a>
-		  </p>
+		  <a href="https://github.com/Bardesss/bitcoinstart" class="btn btn-warning btn-lg mt-3 shadow" aria-label="Help mee op Github">Help mee <i class="fa fa-github"></i></a>
 		</div>
 	  </section>
 
@@ -368,11 +369,11 @@
 
 </main>
 
-<footer class="text-muted">
-  <div class="container">
-    <p>🚀 Bitcoinstart is open-source en alleen bedoeld voor informatieve doeleinden.</p>
-    <p>Wil je links toevoegen? Help mee op <a href="https://github.com/Bardesss/bitcoinstart/blob/master/README.md">Github</a> en andere opmerkingen mogen <a href="https://github.com/Bardesss/bitcoinstart/issues/1">hier</a>.</p>
-    <p>Bitcoinstart accepteert geen donaties. Donaties zijn welkom bij <a href="https://bitcoindevlist.com/">mensen die werken aan Bitcoin</a>.</p>
+<footer class="text-muted bg-light border-top mt-5 py-4" style="font-size:1rem;">
+  <div class="container text-center">
+    <p class="mb-1">🚀 <strong>Bitcoinstart</strong> is open-source en alleen bedoeld voor informatieve doeleinden.</p>
+    <p class="mb-1">Wil je links toevoegen? Help mee op <a href="https://github.com/Bardesss/bitcoinstart/blob/master/README.md">Github</a> of geef feedback <a href="https://github.com/Bardesss/bitcoinstart/issues/1">hier</a>.</p>
+    <p class="mb-0">Bitcoinstart accepteert geen donaties. Donaties zijn welkom bij <a href="https://bitcoindevlist.com/">mensen die werken aan Bitcoin</a>.</p>
   </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
@@ -383,9 +384,9 @@
       const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=eur');
       const data = await res.json();
       const price = data.bitcoin.eur.toLocaleString('nl-NL', { style: 'currency', currency: 'EUR' });
-      document.getElementById('btc-ticker').textContent = `BTC: ${price}`;
+      document.getElementById('btc-ticker').textContent = `${price}`;
     } catch (e) {
-      document.getElementById('btc-ticker').textContent = 'BTC: ?';
+      document.getElementById('btc-ticker').textContent = '?';
     }
   }
   updateBTCTicker();
