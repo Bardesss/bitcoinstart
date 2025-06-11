@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,16 +14,12 @@
   <body>
   
 <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img src="img/logoliggend.png" height="35" alt="Bitcoinstart" /></a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarText">
-      <span class="navbar-text float-end">
-	  <a href="https://amboss.space/node/03ea17f6bac6bf73bfb932aad27f9887cab1c45f9e35d53049cdf6bd7002786554"><i class="m-2 fa fa-bolt"></i>Amboss</a>
-      </span>
-    </div>
+  <div class="container-fluid d-flex align-items-center justify-content-between position-relative">
+    <span class="navbar-text">
+      <a href="https://amboss.space/node/03ea17f6bac6bf73bfb932aad27f9887cab1c45f9e35d53049cdf6bd7002786554"><i class="m-2 fa fa-bolt" aria-hidden="true"></i>Amboss</a>
+    </span>
+    <a class="navbar-brand mx-auto position-absolute start-50 translate-middle-x" href="#"><img src="img/logoliggend.png" height="35" alt="Bitcoinstart" /></a>
+    <span class="navbar-text" id="btc-ticker" style="font-weight:600; color:#ff9900;"></span>
   </div>
 </nav>
 
@@ -45,23 +41,25 @@
 	  
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="inhoudsopgave">
+			<h2 class="card-header" id="inhoudsopgave">
 			  Inhoudsopgave
-			</div>
+			</h2>
 			<div class="card-body">
 			  <ul>
 			    <li><a href="#beginnenmetbitcoin">Beginnen met Bitcoin</a></li>
 				<li><a href="#beginnenmetlightning">Beginnen met Lightning ⚡</a></li>
 				<li><a href="#bitcoingevorderd">Bitcoin voor gevorderden</a></li>
-				<li><a href="#wallets">Wallets</a></li>
-				<ul>
-				  <li><a href="#vertrouwdewallets">Vertrouwde wallets</a></li>
-				</ul>
+				<li><a href="#wallets">Wallets</a>
+				  <ul>
+				    <li><a href="#vertrouwdewallets">Vertrouwde wallets</a></li>
+				  </ul>
+				</li>
 				<li><a href="#nodes">Nodes</a></li>
-				<li><a href="#kopenverhandelen">Kopen en verhandelen</a></li>
-				<ul>
-				  <li><a href="#vertrouwdebrokersexchanges">Vertrouwde brokers en exchanges</a></li>
-				</ul>
+				<li><a href="#kopenverhandelen">Kopen en verhandelen</a>
+				  <ul>
+				    <li><a href="#vertrouwdebrokersexchanges">Vertrouwde brokers en exchanges</a></li>
+				  </ul>
+				</li>
 				<li><a href="#uitgeven">Uitgeven</a></li>
 				<li><a href="#accepteren">Accepteren</a></li>
 				<li><a href="#verdienen">Verdienen</a></li>
@@ -69,11 +67,12 @@
 				<li><a href="#nieuws">Nieuws</a></li>
 				<li><a href="#podcasts">Podcasts</a></li>
 				<li><a href="#videos">Video's</a></li>
-				<li><a href="#socialmedia">Social Media</a></li>
-				<ul>
-				  <li><a href="#telegram">Telegram</a></li>
-				  <li><a href="#reddit">Reddit</a></li>
-				</ul>
+				<li><a href="#socialmedia">Social Media</a>
+				  <ul>
+				    <li><a href="#telegram">Telegram</a></li>
+				    <li><a href="#reddit">Reddit</a></li>
+				  </ul>
+				</li>
 			  </ul>
 			</div>
 		  </div>
@@ -81,9 +80,9 @@
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="beginnenmetbitcoin">
+			<h2 class="card-header" id="beginnenmetbitcoin">
 			  Beginnen met Bitcoin
-			</div>
+			</h2>
 			<div class="card-body">
               		  <ul class="list-unstyled">
 			    <li><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_nl.pdf">Bitcoin Whitepaper</a></li>
@@ -91,49 +90,46 @@
 			    <li><a href="https://bitcoinmagazine.nl/2020/06/bitcoin-btc-uitgelegd-digitaal/">Bitcoin uitgelegd</a></li>
 				<li><a href="https://bitcoin.org/nl/aan-de-slag">Aan de slag</a></li>
 				<li><a href="https://bitcoin.nl/over-bitcoin">Over Bitcoin</a></li>
-				<li><a href="https://bitcoin-intro.com/nl/">Bitcoin-Intro</a></li>
 				<li><a href="https://nl.wikipedia.org/wiki/Bitcoin">Bitcoin op Wikipedia</a></li>
 				<li><a href="https://bitcoin.org/nl/woordenlijst#bitcoin">Bitcoin of bitcoin</a></li>
-		      		<li><a href="https://lekkercryptisch.nl/kennisbank/woordenlijst">Woordenlijst</a></li>
+		      	<li><a href="https://lekkercryptisch.nl/kennisbank/woordenlijst">Woordenlijst</a></li>
 				<li><a href="https://bitcoin.nl/gids/begrippenlijst">Begrippenlijst</a></li>
 				<li><a href="https://btcwiki.nl/wiki/Vertaling_Engelse_woorden">Vertaling Engelse woorden</a></li>
 				<li><a href="https://bitcoinmagazine.nl/bitcoin-nieuws-overzicht/bitcoin-geschiedenis-cypherpunk">Waar komt Bitcoin vandaan?</a></li>
 				<li><a href="https://btcwiki.nl/wiki/Mythes">Bitcoin mythes</a></li>
 				<li><a href="https://bewijsvanwerk.com/veelgestelde-vragen/">Bitcoin: veelgestelde vragen</a></li>
-		      		<li><a href="https://btcdirect.eu/nl-nl/klimaat-energie">Bitcoin, energie en het klimaat</a></li>
-		      		<li><a href="https://lekkercryptisch.nl/kennisbank/artikelen/2021/02/15/Bitcoin-gebruikt-veel-teveel-energie-een-klimaatramp">"Bitcoin gebruikt teveel energie"</a></li>
+		      	<li><a href="https://lekkercryptisch.nl/kennisbank/artikelen/2021/02/15/Bitcoin-gebruikt-veel-teveel-energie-een-klimaatramp">"Bitcoin gebruikt teveel energie"</a></li>
 				<li><a href="https://btcwiki.nl/wiki/Energieverbruik">Energieverbruik</a></li>
 				<li><a href="https://bitcoinmagazine.nl/bitcoin-blog/bitcoin-en-energieverspilling-feiten-en-fabels">Bitcoin en energieverspilling</a></li>
-		      		<li><a href="https://lekkercryptisch.nl/kennisbank/artikelen/2021/01/21/Bitcoin-heeft-geen-intrinsieke-waarde">"Bitcoin heeft geen intrensieke waarde"</a>
-			        <li><a href="https://github.com/BitcoinLabrador/translations/blob/master/masters&slaves/mastersAndSlavesOfMoney.md">Geld - Meesters en Slaven</a></li>
-				<li><a href="https://bitcoinisgeencrypto.com/">Bitcoin is geen Crypto</a></li>
+		      	<li><a href="https://lekkercryptisch.nl/kennisbank/artikelen/2021/01/21/Bitcoin-heeft-geen-intrinsieke-waarde">"Bitcoin heeft geen intrensieke waarde"</a></li>
+			    <li><a href="https://github.com/BitcoinLabrador/translations/blob/master/masters&slaves/mastersAndSlavesOfMoney.md">Geld - Meesters en Slaven</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="beginnenmetlightning">
+			<h2 class="card-header" id="beginnenmetlightning">
 			  Beginnen met Lightning ⚡
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
 			    <li><a href="https://www.bitcoinspot.nl/het-grote-lightning-network-artikel-wat-is-het-hoe-werkt-het-en-wat-lost-het-op/">Het grote Lightning Network artikel</a></li>
 		      	<li><a href="https://bitcoinmagazine.nl/nieuws/dit-is-wat-je-moet-weten-over-het-bitcoin-lightning-netwerk">Dit is wat je moet weten over het Lightning Netwerk</a></li>
 				<li><a href="https://btcwiki.nl/wiki/Lightning">Lightning</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		  
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="bitcoingevorderd">
+			<h2 class="card-header" id="bitcoingevorderd">
 			  Bitcoin voor gevorderden
-			</div>
+			</h2>
 			<div class="card-body">
               		  <ul class="list-unstyled">
 			    <li><a href="https://medium.com/@vijayboyapati/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1">Het "Bullish" argument voor Bitcoin</a></li>
@@ -141,65 +137,61 @@
 			    <li><a href="https://bitcoin.nl/artikel/de-mempool-uitgelegd">De mempool uitgelegd</a></li>
 			    <li><a href="https://bitcoin.nl/nieuws/segregated-witness-uitgelegd-177">Segregated Witness (segwit) Uitgelegd</a></li>
 			    <li><a href="https://btcdirect.eu/nl-nl/taproot">Taproot uitgelegd</a></li>
-		      	    <li><a href="https://blog.bartusoost.nl/bitcoin-vs-bitcoin-cash/">Bitcoin vs. Bitcoin Cash</a></li>
 			    <li><a href="https://lekkercryptisch.nl/kennisbank/artikelen/2020/02/16/De-bitcoin-halving-is-in-aantocht-Wat-is-een-halving">Wat is een halving?</a></li>
 			    <li><a href="https://bitcoinmagazine.nl/2020/11/bitcoin-stock-to-flow-deel-1/">Stock-to-flow model</a></li>
 			    <li><a href="https://bitcoinmagazine.nl/bitcoin-nieuws-overzicht/bitcoin-smart-contracts-taproot">Wat is taproot</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="wallets">
+			<h2 class="card-header" id="wallets">
 			  Wallets
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
-			    <li><a href="https://academy.binance.com/nl/blockchain/crypto-wallet-types-explained">Wat is een wallet?</a></li>
-			    <li><a href="https://academy.binance.com/nl/security/what-is-a-hardware-wallet">Wat is een hardware wallet?</a></li>
 			    <li><a href="https://bitcoin.nl/gids/een-wallet-kiezen">Een wallet kiezen</a></li>
-		      	<li><a href="http://storingbitcoin.info/">Storing Bitcoin</a></a>
+		      	<li><a href="http://storingbitcoin.info/">Storing Bitcoin</a></li>
 				<li><a href="https://btcwiki.nl/wiki/Bitcoin_opslaan">Bitcoin opslaan</a></li>
-				<li><a href="https://lekkercryptisch.nl/kennisbank/artikelen/2020/11/01/Hoe-bewaar-je-bitcoins">Hoe bewaar je Bitcoins?</a>
+				<li><a href="https://lekkercryptisch.nl/kennisbank/artikelen/2020/11/01/Hoe-bewaar-je-bitcoins">Hoe bewaar je Bitcoins?</a></li>
 			  </ul>
-			  <h5 id="vertrouwdewallets">Vertrouwde wallets</h4>
+			  <h5 id="vertrouwdewallets">Vertrouwde wallets</h5>
 			  <ul class="list-unstyled">
 			    <li><a href="https://bitcoin.org/nl/wallets/desktop/windows/bitcoincore/">Bitcoin Core</a></li>
 				<li><a href="https://blockstream.com/green/">Blockstream Green</a></li>
 				<li><a href="https://bitcoin.nl/artikel/breez-wallet-review-eenvoudige-all-in-one-lightning-wallet-podcastspeler-en-pos-terminal">Breez, eenvoudige all-in-one wallet</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="nodes">
+			<h2 class="card-header" id="nodes">
 			  Nodes
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
-			    <li><a href="https://docs.theroadtonode.com/">The Road to Node</a></li>
+			    <li><a href="https://theroadtonode.com/nl">The Road to Node</a></li>
 				<li><a href="https://www.youtube.com/watch?v=7AtDkEHNUP8&list=PLweLX09dn_zBgpKCNeFnJTgMjTiL481U3">De Nodezaak</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="kopenverhandelen">
+			<h2 class="card-header" id="kopenverhandelen">
 			  Kopen en verhandelen
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
 			    <li><a href="https://btcwiki.nl/wiki/Bitcoin_kopen">Bitcoin kopen</a></li>
-			    <li><a href="https://blog.bartusoost.nl/bitcoin-kopen-voor-beginners-2020/">Bitcoin kopen voor beginners</a></li>
 		        <li><a href="https://bitcoin.nl/gids/bitcoin-kopen">Bitcoin kopen</a></li>
 		      	<li><a href="https://bitcoin.nl/gids/bitcoin-verkopen">Bitcoin verkopen</a></li>
 		        <li><a href="https://bitcoin.nl/artikel/de-bitcoingids-handelen-op-de-exchange-bl3p">Bitcoin handelen op de exchange BL3P</a></li>
@@ -214,81 +206,86 @@
 			    <li><a href="https://satos.eu/nl/bitcoin/kopen">Satos</a></li>
 			    <li><a href="https://bl3p.eu/nl/">Bl3p</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="Uitgeven">
+			<h2 class="card-header" id="Uitgeven">
 			  Uitgeven
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
 			    <li><a href="https://www.bitcoinspot.nl/waar-kan-je-met-bitcoins-betalen/">Waar kan je met bitcoin betalen?</a></li>
 			    <li><a href="https://spending-bitcoin.com/">Spending-Bitcoin</a></li>
-		            <li><a href=https://btcmap.org/>BTC Map</a></li>
+		            <li><a href="https://btcmap.org/">BTC Map</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="accepteren">
+			<h2 class="card-header" id="accepteren">
 			  Accepteren
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
 			    <li><a href="https://btcpayserver.org/nl_NL/">BTCPay Server</a></li>
 			    <li><a href="https://www.bitkassa.nl/nl/">BitKassa</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="verdienen">
+			<h2 class="card-header" id="verdienen">
 			  Verdienen
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
 			    <li><a href="https://satsback.com/">Satsback</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="boeken">
+			<h2 class="card-header" id="boeken">
 			  Boeken
-			</div>
+			</h2>
 			<div class="card-body">
 			  <ul class="list-unstyled">
-				<li><a href="https://konsensus.network/product/de-bitcoin-standaard?ref=bitcoinstart">De Bitcoin Standaard</a> *</li>
-				<li><a href="https://konsensus.network/product/het-kleine-bitcoinboekje?ref=bitcoinstart">Het Kleine Bitcoinboekje</a> *</li>
-				<li><a href="https://konsensus.network/product/21-lessen?ref=bitcoinstart">21 Lessen</a> *</li>
-				<li><a href="https://konsensus.network/product/dank-god-voor-bitcoin?ref=bitcoinstart">Dank God voor Bitcoin</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/de-bitcoin-standaard">De Bitcoin Standaard</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/het-genesisboek">Het Genesisboek</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/geldnood">Geldnood</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/bitcoin-ontdekken">Bitcoin Ontdekken</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/een-optimistisch-scenario-voor-bitcoin">Een Optimistisch Scenario voor Bitcoin</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/gelaagd-geld">Gelaagd Geld</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/het-kleine-bitcoinboekje">Het Kleine Bitcoinboekje</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/21-lessen">21 Lessen</a> *</li>
+				<li><a href="https://bitcoinbook.shop/products/dank-god-voor-bitcoin">Dank God voor Bitcoin</a> *</li>
 				<li><a href="https://onsgeldisstuk.nl/">Ons Geld is Stuk</a></li>
 				<li><a href="https://github.com/JanAppelzaad/BTCBoeken/blob/main/Lijst.md">Bitcoin Boekenlijst</a></li>
 			  </ul>
 				<p>* 10% korting met code BITCOINSTART bij afrekenen</p>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="nieuws">
+			<h2 class="card-header" id="nieuws">
 			  Nieuws
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
 			    <li><a href="https://bitcoinmagazine.nl/">Bitcoin Magazine</a></li>
@@ -298,51 +295,51 @@
 		            <li><a href="https://bitcoinalpha.nl/">Bitcoin Alpha</a></li>
 		            <li><a href="https://bitcoinfocus.nl/">Bitcoinfocus</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="podcasts">
+			<h2 class="card-header" id="podcasts">
 			  Podcasts
-			</div>
+			</h2>
 			<div class="card-body">
               <ul class="list-unstyled">
 			    <li><a href="https://debitcoinshow.nl/">De Bitcoin Show</a></li>
-		      	    <li><a href="https://satoshiradio.nl/">Satoshi Radio</a></a>
+		      	    <li><a href="https://satoshiradio.nl/">Satoshi Radio</a></li>
 			    <li><a href="https://beginnenmetbitcoin.com/">Beginnen met Bitcoin</a></li>
 			    <li><a href="https://anchor.fm/hupbitcoin">Hup Bitcoin</a></li>
 			    <li><a href="https://www.bnr.nl/podcast/het-nieuwe-geld">Het Nieuwe Geld</a></li>
 			    <li><a href="https://anchor.fm/connectingthenodes/">Connecting the Nodes</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
 	  
                 <div class="col-sm-6 col-lg-4 mb-4">
                   <div class="card">
-                        <div class="card-header" id="videos">
+                        <h2 class="card-header" id="videos">
                           Video's
-                        </div>
+                        </h2>
                         <div class="card-body">
               <ul class="list-unstyled">
                             <li><a href="https://www.youtube.com/watch?v=2MbTFGHUddY">Bitcoin in El Salvador</a> (uitleg)</li>
 		            <li><a href="https://youtu.be/TWDQOz8qP2E">Bitcoin in El Salvador</a> (docu)</li>
 		            <li><a href="https://www.youtube.com/watch?v=P5-wEvR8kD0?hd=1&autoplay=1&fs=1">Bitcoin Island in Boracay</a> (docu)</li>
                           </ul>
-                          <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+                          <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
                         </div>
                   </div>
                 </div>
 		
 		<div class="col-sm-6 col-lg-4 mb-4">
 		  <div class="card">
-			<div class="card-header" id="socialmedia">
+			<h2 class="card-header" id="socialmedia">
 			  Social Media
-			</div>
+			</h2>
 			<div class="card-body">
 			  <h5 id="telegram">Telegram</h5>
 			  <ul class="list-unstyled">
@@ -360,7 +357,7 @@
 			  <ul class="list-unstyled">
 			    <li><a href="https://www.reddit.com/r/BitcoinNL/">BitcoinNL</a></li>
 			  </ul>
-			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up"></i> Terug naar boven</span></a></p>
+			  <p class="float-end"><a href="#inhoudsopgave"><span class="badge bg-warning text-dark"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Terug naar boven</span></a></p>
 			</div>
 		  </div>
 		</div>
@@ -380,5 +377,18 @@
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
-<script data-goatcounter="https://bitcoinstart.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+  async function updateBTCTicker() {
+    try {
+      const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=eur');
+      const data = await res.json();
+      const price = data.bitcoin.eur.toLocaleString('nl-NL', { style: 'currency', currency: 'EUR' });
+      document.getElementById('btc-ticker').textContent = `BTC: ${price}`;
+    } catch (e) {
+      document.getElementById('btc-ticker').textContent = 'BTC: ?';
+    }
+  }
+  updateBTCTicker();
+  setInterval(updateBTCTicker, 60000);
+</script>
 </html>
