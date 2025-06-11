@@ -2,7 +2,9 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
   margin-bottom: 0;
-  background-color: #fff;
+  background: linear-gradient(135deg, #ffb347 0%, #ff9900 100%);
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.18), 0 1px 0 rgba(0,0,0,0.12);
 }
 
 @media (min-width: 768px) {
@@ -35,4 +37,36 @@ footer p {
 
 a {
   text-decoration: none;
+}
+
+.card-body h5,
+.card h5 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+a:focus, button:focus {
+  outline: 2px solid #ff9900;
+  outline-offset: 2px;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h2.card-header {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.jumbotron .btn {
+  text-shadow: none;
+}
+
+.jumbotron .lead.text-muted {
+  color: #fff !important;
+}
+.jumbotron .lead.text-muted .btn {
+  color: inherit;
 }
